@@ -2,5 +2,8 @@ git init : se hace una sola vez para conectar la carpeta con github (para inicia
 git status -s: ver el estado de los elementos de la carpeta en la cual inicializamos el repositorio
 git add index.html: para agregar al staging area(un solo archivo)
 git add . : agrega todos los archivos que esten en la carpeta
+----------------------------------------------------------------
+*Ahora para pasar al repositorio local (se debe colocar un comentario de que se esta haciendo)*
+git commit -m "Primer envio": para subir los archivos al repositorio local
 
 
